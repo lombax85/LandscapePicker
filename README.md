@@ -1,0 +1,1 @@
+From my answer to this Stackoverflow question: http://stackoverflow.com/questions/19705433/issue-with-presenting-uiimagepickercontroller-in-ios-7/19867273#19867273
