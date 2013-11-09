@@ -22,6 +22,7 @@
 		E84879A5182D5E330007A835 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E84879A3182D5E330007A835 /* InfoPlist.strings */; };
 		E84879A7182D5E330007A835 /* PickerTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E84879A6182D5E330007A835 /* PickerTestTests.m */; };
 		E8EE5A24182D6B2B00031646 /* FLApplication.m in Sources */ = {isa = PBXBuildFile; fileRef = E8EE5A23182D6B2B00031646 /* FLApplication.m */; };
+		E8EE5A76182E912F00031646 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E8EE5A75182E912F00031646 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		E84879A6182D5E330007A835 /* PickerTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PickerTestTests.m; sourceTree = "<group>"; };
 		E8EE5A22182D6B2B00031646 /* FLApplication.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FLApplication.h; sourceTree = "<group>"; };
 		E8EE5A23182D6B2B00031646 /* FLApplication.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FLApplication.m; sourceTree = "<group>"; };
+		E8EE5A75182E912F00031646 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 		E8487981182D5E330007A835 /* PickerTest */ = {
 			isa = PBXGroup;
 			children = (
+				E8EE5A75182E912F00031646 /* README.md */,
 				E848798A182D5E330007A835 /* AppDelegate.h */,
 				E8EE5A22182D6B2B00031646 /* FLApplication.h */,
 				E8EE5A23182D6B2B00031646 /* FLApplication.m */,
@@ -235,6 +238,7 @@
 			files = (
 				E8487994182D5E330007A835 /* Images.xcassets in Resources */,
 				E8487986182D5E330007A835 /* InfoPlist.strings in Resources */,
+				E8EE5A76182E912F00031646 /* README.md in Resources */,
 				E848798F182D5E330007A835 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
